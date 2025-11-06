@@ -1,11 +1,6 @@
 # Student Dashboard (React Lab)
 
-## Kurulum
+## Installation
 ```bash
 npm install
 npm run dev
-```
-
-## Notlar
-- CSS sınıf adlarını değiştirmeyin.
-- `node_modules` git'e eklenmemelidir.
